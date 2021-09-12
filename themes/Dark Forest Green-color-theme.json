@@ -1722,7 +1722,7 @@
       "name": "js/ts italic",
       "scope": "entity.other.attribute-name.js,entity.other.attribute-name.ts,entity.other.attribute-name.jsx,entity.other.attribute-name.tsx,variable.parameter,variable.language.super",
       "settings": {
-        "fontStyle": "italic"
+        // "fontStyle": "italic"
       }
     },
     {
@@ -1736,7 +1736,7 @@
       "name": "Python Keyword Control",
       "scope": "keyword.control.import.python,keyword.control.flow.python",
       "settings": {
-        "fontStyle": "italic"
+        // "fontStyle": "italic"
       }
     },
     {
@@ -1863,7 +1863,7 @@
     "editorGutter.deletedBackground": "#94151b",
     "editorGutter.foldingControlForeground": "#c5c5c5",
     "editorCodeLens.foreground": "#999999",
-    "editorGroup.border": "#00000000",
+    "editorGroup.border": "#2ecc4032",
     "diffEditor.insertedTextBackground": "#9bb95533",
     "diffEditor.removedTextBackground": "#ff000033",
     "diffEditor.border": "#444444",
@@ -1938,7 +1938,7 @@
     "gitDecoration.stageModifiedResourceForeground": "#ff9900dd",
     "gitDecoration.submoduleResourceForeground": "#8db9e2dd",
     "gitDecoration.untrackedResourceForeground": "#73c991dd",
-    "editorMarkerNavigation.background": "#2d2d30",
+    "editorMarkerNavigation.background": "#08190a",
     "editorMarkerNavigationError.background": "#f48771",
     "editorMarkerNavigationWarning.background": "#cca700",
     "editorMarkerNavigationInfo.background": "#75beff",
@@ -1948,13 +1948,13 @@
     "merge.incomingContentBackground": "#28384B",
     "merge.commonHeaderBackground": "#383838",
     "merge.commonContentBackground": "#282828",
-    "editorSuggestWidget.background": "#252526",
-    "editorSuggestWidget.border": "#454545",
-    "editorSuggestWidget.foreground": "#d4d4d4",
+    "editorSuggestWidget.background": "#08190a",
+    "editorSuggestWidget.border": "#00000000",
+    "editorSuggestWidget.foreground": "#ffffffa1",
     "editorSuggestWidget.highlightForeground": "#2ecc40",
     "editorSuggestWidget.selectedBackground": "#2ecc402c",
     "editorHoverWidget.foreground": "#cccccc",
-    "editorHoverWidget.background": "#003606",
+    "editorHoverWidget.background": "#08190a",
     "editorHoverWidget.border": "#45454500",
     "peekView.border": "#007acc",
     "peekViewEditor.background": "#001f33",
