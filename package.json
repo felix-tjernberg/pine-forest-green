@@ -3,12 +3,18 @@
   "displayName": "Pine Forest Green",
   "description": "A green vscode color theme, inspired by the colors of pine forest.",
   "version": "1.0.0",
+  "publisher": "felix-tjernberg",
+  "license": "MIT",
   "engines": {
     "vscode": "^1.60.0"
   },
   "categories": [
     "Themes"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/felix-tjernberg/pine-forest-green.git"
+  },
   "contributes": {
     "themes": [
       {
