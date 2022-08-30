@@ -1,9 +1,18 @@
 # Change Log
 
-All notable changes to the "dark-forest-green" extension will be documented in this file.
-
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+All notable changes to the "pine-forest-green" extension will be documented in this file.
 
 ## [Unreleased]
 
-- Initial release
+- Initial coloring added
+
+## [1.0.0] - 2022-08-30
+
+### Changed
+
+- Renamed theme to pine forest green
+
+### Removed
+
+- .gitattributes (Not necessary for this project)
+- vsc-extension-quickstart.md

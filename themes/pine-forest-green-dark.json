@@ -1,5 +1,5 @@
 {
-  "name": "Dark forest green",
+  "name": "Pine Forest Green (Dark)",
   "type": "dark",
   "semanticHighlighting": true,
   "semanticTokenColors": {
@@ -1720,10 +1720,7 @@
     },
     {
       "name": "js/ts italic",
-      "scope": "entity.other.attribute-name.js,entity.other.attribute-name.ts,entity.other.attribute-name.jsx,entity.other.attribute-name.tsx,variable.parameter,variable.language.super",
-      "settings": {
-        // "fontStyle": "italic"
-      }
+      "scope": "entity.other.attribute-name.js,entity.other.attribute-name.ts,entity.other.attribute-name.jsx,entity.other.attribute-name.tsx,variable.parameter,variable.language.super"
     },
     {
       "name": "comment",
@@ -1734,10 +1731,7 @@
     },
     {
       "name": "Python Keyword Control",
-      "scope": "keyword.control.import.python,keyword.control.flow.python",
-      "settings": {
-        // "fontStyle": "italic"
-      }
+      "scope": "keyword.control.import.python,keyword.control.flow.python"
     },
     {
       "name": "markup.italic.markdown",

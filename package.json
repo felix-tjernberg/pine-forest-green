@@ -1,21 +1,21 @@
 {
-    "name": "dark-forest-green",
-    "displayName": "Dark Forest Green",
-    "description": "",
-    "version": "0.0.1",
-    "engines": {
-        "vscode": "^1.60.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Dark Forest Green",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Dark Forest Green-color-theme.json"
-            }
-        ]
-    }
+  "name": "pine-forest-green",
+  "displayName": "Pine Forest Green",
+  "description": "A green vscode color theme, inspired by the colors of pine forest.",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Pine Forest Green (Dark)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/pine-forest-green-dark.json"
+      }
+    ]
+  }
 }
