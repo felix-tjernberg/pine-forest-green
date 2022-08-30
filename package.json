@@ -2,14 +2,22 @@
   "name": "pine-forest-green",
   "displayName": "Pine Forest Green",
   "description": "Green theme :)",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "felix-tjernberg",
   "license": "MIT",
+  "icon": "icon.png",
   "engines": {
     "vscode": "^1.60.0"
   },
   "categories": [
     "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "green",
+    "pine",
+    "forest",
+    "dark"
   ],
   "repository": {
     "type": "git",

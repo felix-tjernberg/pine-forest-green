@@ -16,3 +16,9 @@ All notable changes to the "pine-forest-green" extension will be documented in t
 
 - .gitattributes (Not necessary for this project)
 - vsc-extension-quickstart.md
+
+## [1.0.1] - 2022-08-30
+
+### Added
+
+- Logo
